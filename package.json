@@ -5,6 +5,7 @@
     "dev": "gulp watch"
   },
   "devDependencies": {
+    "buble": "0.14.2",
     "babel-plugin-transform-runtime": "^6.7.5",
     "babel-preset-stage-2": "^6.11.0",
     "browserify": "^13.0.1",
@@ -17,17 +18,18 @@
     "jquery": "^3.0.0",
     "jquery-mask-plugin": "^1.14.0",
     "jsoneditor": "^5.5.6",
-    "laravel-elixir": "^6.0.0-15",
-    "laravel-elixir-browserify-official": "^0.1.2",
-    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir": "^6.0.0-9",
     "laravel-elixir-rollup-official": "^1.1.0",
+    "laravel-elixir-vue-2": "^0.2.0",
+    "laravel-elixir-webpack-official": "^1.0.2",
+    "lodash": "^4.16.2",
+    "rollup-plugin-vue": "2.2.8",
+    "vue": "^2.0.1",
+    "vue-resource": "^1.0.3",
     "lockr": "^0.8.4",
-    "lodash": "^4.11.1",
     "moment": "^2.14.1",
     "randexp": "^0.4.3",
-    "vue": "^1.0.21",
     "vue-hot-reload-api": "^2.0.5",
-    "vue-resource": "^0.9.3",
     "vue-strap": "^1.0.7",
     "vueify": "^8.3.9",
     "vueify-insert-css": "^1.0.0",
@@ -50,3 +52,4 @@
     ]
   }
 }
+
