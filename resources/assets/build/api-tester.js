@@ -78353,7 +78353,7 @@ if (module.hot) {(function () {  module.hot.accept()
   }
 })()}
 },{"./components/action-panel/action-panel.vue":126,"./components/edit-block/edit-block.vue":129,"./components/lists-block/lists-block.vue":146,"vue":120,"vue-hot-reload-api":119,"vueify-insert-css":121}],126:[function(require,module,exports){
-var __vueify_style__ = require("vueify-insert-css").insert("\n.button[_v-93885140], .button[_v-93885140]:hover, .button[_v-93885140]:active {\n    border-color: #0092a2 !important;\n}\n\n.action-panel[_v-93885140] {\n    margin: 0;\n    width: 100%;\n}\n\n.input[_v-93885140], .input[_v-93885140]:hover {\n    -webkit-transition: all ease .1s;\n    transition: all ease .1s;\n    background-color: #0092a2;\n    border-color: #0092a2;\n    color: #c6faff;\n    font-weight: 100;\n    font-family: droid sans mono, consolas, monospace, courier new, courier, sans-serif;\n}\n\n.input[_v-93885140]:focus {\n    background-color: #ffffff;\n    color: #69707a;\n    border-color: #1fc8db;\n}\n")
+var __vueify_style__ = require("vueify-insert-css").insert("\n.button[_v-93885140], .button[_v-93885140]:hover, .button[_v-93885140]:active {\n    border-color: #F8F8F8 !important;\n}\n\n.action-panel[_v-93885140] {\n    margin: 0;\n    width: 100%;\n}\n\n.input[_v-93885140], .input[_v-93885140]:hover {\n    -webkit-transition: all ease .1s;\n    transition: all ease .1s;\n    background-color: #585858;\n    border-color: #F8F8F8;\n    color: #F8F8F8;\n    font-weight: 100;\n    font-family: droid sans mono, consolas, monospace, courier new, courier, sans-serif;\n}\n\n.input[_v-93885140]:focus {\n    background-color: #ffffff;\n    color: #69707a;\n    border-color: #F8F8F8;\n}\n")
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -78429,7 +78429,7 @@ if (module.hot) {(function () {  module.hot.accept()
   if (!hotAPI.compatible) return
   var id = "/Users/lawrencephillips/Documents/code/server.dev/vendor/webgains/laravel-api-tester/resources/assets/js/components/action-panel/action-panel.vue"
   module.hot.dispose(function () {
-    require("vueify-insert-css").cache["\n.button[_v-93885140], .button[_v-93885140]:hover, .button[_v-93885140]:active {\n    border-color: #0092a2 !important;\n}\n\n.action-panel[_v-93885140] {\n    margin: 0;\n    width: 100%;\n}\n\n.input[_v-93885140], .input[_v-93885140]:hover {\n    -webkit-transition: all ease .1s;\n    transition: all ease .1s;\n    background-color: #0092a2;\n    border-color: #0092a2;\n    color: #c6faff;\n    font-weight: 100;\n    font-family: droid sans mono, consolas, monospace, courier new, courier, sans-serif;\n}\n\n.input[_v-93885140]:focus {\n    background-color: #ffffff;\n    color: #69707a;\n    border-color: #1fc8db;\n}\n"] = false
+    require("vueify-insert-css").cache["\n.button[_v-93885140], .button[_v-93885140]:hover, .button[_v-93885140]:active {\n    border-color: #F8F8F8 !important;\n}\n\n.action-panel[_v-93885140] {\n    margin: 0;\n    width: 100%;\n}\n\n.input[_v-93885140], .input[_v-93885140]:hover {\n    -webkit-transition: all ease .1s;\n    transition: all ease .1s;\n    background-color: #585858;\n    border-color: #F8F8F8;\n    color: #F8F8F8;\n    font-weight: 100;\n    font-family: droid sans mono, consolas, monospace, courier new, courier, sans-serif;\n}\n\n.input[_v-93885140]:focus {\n    background-color: #ffffff;\n    color: #69707a;\n    border-color: #F8F8F8;\n}\n"] = false
     document.head.removeChild(__vueify_style__)
   })
   if (!module.hot.data) {
@@ -78466,7 +78466,7 @@ var updateRequest = exports.updateRequest = function updateRequest(_ref2, reques
 };
 
 },{}],128:[function(require,module,exports){
-var __vueify_style__ = require("vueify-insert-css").insert("\n.select select[_v-4085d264] {\n    background-color: #1fc8db;\n    border-color: #18798b;\n    color: #c6faff;\n}\n\n.select select[_v-4085d264]:focus{\n    border-color: #18798b;\n}\n\n.select select[_v-4085d264]:hover{\n    border-color: #18798b ;\n}\n\n.select[_v-4085d264]:after {\n    border: 1px solid #18798b !important;\n    border-right: 0 !important;\n    border-top: 0 !important;\n    content: \" \";\n    display: block;\n    height: 7px;\n    pointer-events: none;\n    position: absolute;\n    -webkit-transform: rotate(-45deg);\n    transform: rotate(-45deg);\n    width: 7px;\n    margin-top: -6px;\n    right: 16px;\n    top: 50%;\n}\n")
+var __vueify_style__ = require("vueify-insert-css").insert("\n.select select[_v-4085d264] {\n    background-color: #A8A8A8;\n    border-color: #F8F8F8;\n    color: #F8F8F8;\n}\n\n.select select[_v-4085d264]:focus{\n    border-color: #F8F8F8;\n}\n\n.select select[_v-4085d264]:hover{\n    border-color: #F8F8F8;\n}\n\n.select[_v-4085d264]:after {\n    border: 1px solid #F8F8F8 !important;\n    border-right: 0 !important;\n    border-top: 0 !important;\n    content: \" \";\n    display: block;\n    height: 7px;\n    pointer-events: none;\n    position: absolute;\n    -webkit-transform: rotate(-45deg);\n    transform: rotate(-45deg);\n    width: 7px;\n    margin-top: -6px;\n    right: 16px;\n    top: 50%;\n}\n")
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -78499,7 +78499,7 @@ if (module.hot) {(function () {  module.hot.accept()
   if (!hotAPI.compatible) return
   var id = "/Users/lawrencephillips/Documents/code/server.dev/vendor/webgains/laravel-api-tester/resources/assets/js/components/action-panel/request-type-select.vue"
   module.hot.dispose(function () {
-    require("vueify-insert-css").cache["\n.select select[_v-4085d264] {\n    background-color: #1fc8db;\n    border-color: #18798b;\n    color: #c6faff;\n}\n\n.select select[_v-4085d264]:focus{\n    border-color: #18798b;\n}\n\n.select select[_v-4085d264]:hover{\n    border-color: #18798b ;\n}\n\n.select[_v-4085d264]:after {\n    border: 1px solid #18798b !important;\n    border-right: 0 !important;\n    border-top: 0 !important;\n    content: \" \";\n    display: block;\n    height: 7px;\n    pointer-events: none;\n    position: absolute;\n    -webkit-transform: rotate(-45deg);\n    transform: rotate(-45deg);\n    width: 7px;\n    margin-top: -6px;\n    right: 16px;\n    top: 50%;\n}\n"] = false
+    require("vueify-insert-css").cache["\n.select select[_v-4085d264] {\n    background-color: #A8A8A8;\n    border-color: #F8F8F8;\n    color: #F8F8F8;\n}\n\n.select select[_v-4085d264]:focus{\n    border-color: #F8F8F8;\n}\n\n.select select[_v-4085d264]:hover{\n    border-color: #F8F8F8;\n}\n\n.select[_v-4085d264]:after {\n    border: 1px solid #F8F8F8 !important;\n    border-right: 0 !important;\n    border-top: 0 !important;\n    content: \" \";\n    display: block;\n    height: 7px;\n    pointer-events: none;\n    position: absolute;\n    -webkit-transform: rotate(-45deg);\n    transform: rotate(-45deg);\n    width: 7px;\n    margin-top: -6px;\n    right: 16px;\n    top: 50%;\n}\n"] = false
     document.head.removeChild(__vueify_style__)
   })
   if (!module.hot.data) {

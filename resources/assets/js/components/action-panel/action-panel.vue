@@ -98,7 +98,7 @@
 
 <style scoped>
     .button, .button:hover, .button:active {
-        border-color: #0092a2 !important;
+        border-color: #F8F8F8 !important;
     }
 
     .action-panel {
@@ -108,9 +108,9 @@
 
     .input, .input:hover {
         transition: all ease .1s;
-        background-color: #0092a2;
-        border-color: #0092a2;
-        color: #c6faff;
+        background-color: #585858;
+        border-color: #F8F8F8;
+        color: #F8F8F8;
         font-weight: 100;
         font-family: droid sans mono, consolas, monospace, courier new, courier, sans-serif;
     }
@@ -118,6 +118,6 @@
     .input:focus {
         background-color: #ffffff;
         color: #69707a;
-        border-color: #1fc8db;
+        border-color: #F8F8F8;
     }
 </style>

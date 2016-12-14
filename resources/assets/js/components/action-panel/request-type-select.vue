@@ -39,21 +39,21 @@
 
 <style scoped>
     .select select {
-        background-color: #1fc8db;
-        border-color: #18798b;
-        color: #c6faff;
+        background-color: #A8A8A8;
+        border-color: #F8F8F8;
+        color: #F8F8F8;
     }
 
     .select select:focus{
-        border-color: #18798b;
+        border-color: #F8F8F8;
     }
 
     .select select:hover{
-        border-color: #18798b ;
+        border-color: #F8F8F8;
     }
 
     .select:after {
-        border: 1px solid #18798b !important;
+        border: 1px solid #F8F8F8 !important;
         border-right: 0 !important;
         border-top: 0 !important;
         content: " ";
