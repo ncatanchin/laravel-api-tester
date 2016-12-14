@@ -79907,7 +79907,7 @@ if (module.hot) {(function () {  module.hot.accept()
   }
 })()}
 },{"../../vuex/actions.js":167,"../search/search-panel.vue":154,"./request.vue":147,"babel-runtime/core-js/get-iterator":41,"lodash":106,"vue":120,"vue-hot-reload-api":119,"vueify-insert-css":121}],150:[function(require,module,exports){
-var __vueify_style__ = require("vueify-insert-css").insert("\n.route.selected[_v-29259dc3] {\n    border-right: 2px solid rgb(255, 82, 82);\n    background-color: #e2fcff;\n}\n.route.columns[_v-29259dc3] {\n    margin: 0;\n    border-right: 2px solid transparent;\n    border-top: 1px solid rgba(0, 0, 0, .025);\n}\n\n.route .has-error[_v-29259dc3] {\n    color: #FF5252;\n}\n")
+var __vueify_style__ = require("vueify-insert-css").insert("\n.route.selected[_v-29259dc3] {\n    border-right: 2px solid rgb(255, 82, 82);\n    background-color: #787878;\n}\n.route.columns[_v-29259dc3] {\n    margin: 0;\n    border-right: 2px solid transparent;\n    border-top: 1px solid rgba(0, 0, 0, .025);\n}\n\n.route .has-error[_v-29259dc3] {\n    color: #FF5252;\n}\n")
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -79986,7 +79986,7 @@ if (module.hot) {(function () {  module.hot.accept()
   if (!hotAPI.compatible) return
   var id = "/Users/lawrencephillips/Documents/code/server.dev/vendor/webgains/laravel-api-tester/resources/assets/js/components/routes/route.vue"
   module.hot.dispose(function () {
-    require("vueify-insert-css").cache["\n.route.selected[_v-29259dc3] {\n    border-right: 2px solid rgb(255, 82, 82);\n    background-color: #e2fcff;\n}\n.route.columns[_v-29259dc3] {\n    margin: 0;\n    border-right: 2px solid transparent;\n    border-top: 1px solid rgba(0, 0, 0, .025);\n}\n\n.route .has-error[_v-29259dc3] {\n    color: #FF5252;\n}\n"] = false
+    require("vueify-insert-css").cache["\n.route.selected[_v-29259dc3] {\n    border-right: 2px solid rgb(255, 82, 82);\n    background-color: #787878;\n}\n.route.columns[_v-29259dc3] {\n    margin: 0;\n    border-right: 2px solid transparent;\n    border-top: 1px solid rgba(0, 0, 0, .025);\n}\n\n.route .has-error[_v-29259dc3] {\n    color: #FF5252;\n}\n"] = false
     document.head.removeChild(__vueify_style__)
   })
   if (!module.hot.data) {
