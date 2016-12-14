@@ -7338,10 +7338,13 @@ a:hover {
   color: #FF4136; }
 
 .right-side .navigation-tabs.tabs li.is-active a {
-  color: #69707a; }
+  color: #FF4136;
+  background-color: transparent;
+  border-color: transparent; }
 
 .tabs.is-boxed a:hover {
-  color: #69707a; }
+  background-color: transparent;
+  color: #FF4136; }
 
 .button.is-success {
   background-color: #A8A8A8;
