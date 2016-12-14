@@ -7,7 +7,7 @@ Application main page.
                 <nav class="nav" style="width: 400px">
                     <div class="nav-left">
                         <a class="nav-item logo" href=".">
-                            <span class="nav-icon" ><img src="/images/webgains-sm.png" alt=""></span>
+                            <span class="nav-icon" ><img src="/images/webgains-md.png" alt=""></span>
                         </a>
                     </div>
                     <div class="nav-right">
