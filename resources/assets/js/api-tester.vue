@@ -12,14 +12,7 @@ Application main page.
                     </div>
                     <div class="nav-right">
                         <a class="nav-item"
-                           title="Github"
-                           href="https://github.com/Webgains/laravel-api-tester"
-                           target="_blank"
-                        >
-                            <i class="fa fa-github nav-icon"></i>
-                        </a>
-                        <a class="nav-item"
-                           title="Wiki"
+                           title="Documentation"
                            href="/docs"
                            target="_blank"
                         >
