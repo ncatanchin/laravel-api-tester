@@ -7140,6 +7140,17 @@ a:hover {
   background-color: #585858;
   color: #fff; }
 
+pre {
+  background-color: #393939;
+  color: #f5f7fa; }
+
+.card.current-route .table {
+  color: #f5f7fa; }
+
+.card.current-route .table tr:hover {
+  background-color: #393939;
+  color: #f5f7fa; }
+
 /*# sourceMappingURL=api-tester.css.map */
 
 /*# sourceMappingURL=api-tester.css.map */
