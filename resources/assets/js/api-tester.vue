@@ -80,12 +80,10 @@ which requires scss in .vue file, which is not supported by phpstorm ATM.
 
     .nav-item > .nav-icon {
         transition: all ease .1s;
-        color: #006679;
-        text-shadow: 1px 1px 1px #3debff, -1px -1px 1px #0092a2;
+        color: #fff;
     }
     .nav-item:hover > .nav-icon{
-        color: #c6faff;
-        text-shadow: -1px -1px 1px #3debff, 1px 1px 1px #0092a2;
+        color: #1fc8db;
     }
 
     .top-fixed {
@@ -94,7 +92,7 @@ which requires scss in .vue file, which is not supported by phpstorm ATM.
         top: 0;
         left: 0;
         position: fixed;
-        background-color: #1fc8db;
+        background-color: #393939;
         z-index: 5;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .15);
     }

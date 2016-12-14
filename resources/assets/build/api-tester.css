@@ -6312,7 +6312,7 @@ a.panel-block:hover {
     margin: 0; }
 
 body {
-  background-color: #f5f7fa;
+  background-color: #eaf2f6;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   height: 100%; }
 
@@ -7110,6 +7110,15 @@ div.jsoneditor {
   margin: 4px 0;
   border-right: 2px solid transparent;
   border-bottom: 1px solid rgba(0, 0, 0, 0.025); }
+
+.card {
+  background-color: #393939; }
+
+.button.is-white {
+  color: #fff; }
+
+a:hover {
+  color: #fff; }
 
 /*# sourceMappingURL=api-tester.css.map */
 
