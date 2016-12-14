@@ -78307,7 +78307,7 @@ new _vue2.default({
 });
 
 },{"./api-tester.vue":125,"./plugins/api_demo/api-demo-installer.js":155,"./plugins/api_demo_2/api-demo-installer.js":161,"./plugins/env.js":165,"./plugins/globals.js":166,"./vuex/store.js":168,"./vuex/vuex-installer.js":169,"vue":120}],125:[function(require,module,exports){
-var __vueify_style__ = require("vueify-insert-css").insert("\n.nav[_v-5ef5fe9c] {\n    background-color: transparent;\n}\n\n.nav-item > .nav-icon[_v-5ef5fe9c] {\n    -webkit-transition: all ease .1s;\n    transition: all ease .1s;\n    color: #fff;\n}\n.nav-item:hover > .nav-icon[_v-5ef5fe9c]{\n    color: #1fc8db;\n}\n\n.top-fixed[_v-5ef5fe9c] {\n    width: 100%;\n    padding: 10px;\n    top: 0;\n    left: 0;\n    position: fixed;\n    background-color: #393939;\n    z-index: 5;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, .15);\n}\n\n.left-side[_v-5ef5fe9c] {\n    margin-top: 52px;\n    left: 0;\n    position: absolute;\n    width: 400px;\n    min-height: calc(100% - 52px);\n    padding: 10px;\n}\n\n.right-side[_v-5ef5fe9c] {\n    margin-top: 52px;\n    left: calc(400px);\n    position: absolute;\n    padding: 10px;\n    width: calc(100% - 400px);\n}\n\n.logo[_v-5ef5fe9c] {\n    padding-left: 20px;\n}\n")
+var __vueify_style__ = require("vueify-insert-css").insert("\n.nav[_v-5ef5fe9c] {\n    background-color: transparent;\n}\n\n.nav-item > .nav-icon[_v-5ef5fe9c] {\n    -webkit-transition: all ease .1s;\n    transition: all ease .1s;\n    color: #fff;\n}\n.nav-item:hover > .nav-icon[_v-5ef5fe9c]{\n    color: #FF4136;\n}\n\n.top-fixed[_v-5ef5fe9c] {\n    width: 100%;\n    padding: 10px;\n    top: 0;\n    left: 0;\n    position: fixed;\n    background-color: #393939;\n    z-index: 5;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, .15);\n}\n\n.left-side[_v-5ef5fe9c] {\n    margin-top: 52px;\n    left: 0;\n    position: absolute;\n    width: 400px;\n    min-height: calc(100% - 52px);\n    padding: 10px;\n}\n\n.right-side[_v-5ef5fe9c] {\n    margin-top: 52px;\n    left: calc(400px);\n    position: absolute;\n    padding: 10px;\n    width: calc(100% - 400px);\n}\n\n.logo[_v-5ef5fe9c] {\n    padding-left: 20px;\n}\n")
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -78343,7 +78343,7 @@ if (module.hot) {(function () {  module.hot.accept()
   if (!hotAPI.compatible) return
   var id = "/Users/lawrencephillips/Documents/code/server.dev/vendor/webgains/laravel-api-tester/resources/assets/js/api-tester.vue"
   module.hot.dispose(function () {
-    require("vueify-insert-css").cache["\n.nav[_v-5ef5fe9c] {\n    background-color: transparent;\n}\n\n.nav-item > .nav-icon[_v-5ef5fe9c] {\n    -webkit-transition: all ease .1s;\n    transition: all ease .1s;\n    color: #fff;\n}\n.nav-item:hover > .nav-icon[_v-5ef5fe9c]{\n    color: #1fc8db;\n}\n\n.top-fixed[_v-5ef5fe9c] {\n    width: 100%;\n    padding: 10px;\n    top: 0;\n    left: 0;\n    position: fixed;\n    background-color: #393939;\n    z-index: 5;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, .15);\n}\n\n.left-side[_v-5ef5fe9c] {\n    margin-top: 52px;\n    left: 0;\n    position: absolute;\n    width: 400px;\n    min-height: calc(100% - 52px);\n    padding: 10px;\n}\n\n.right-side[_v-5ef5fe9c] {\n    margin-top: 52px;\n    left: calc(400px);\n    position: absolute;\n    padding: 10px;\n    width: calc(100% - 400px);\n}\n\n.logo[_v-5ef5fe9c] {\n    padding-left: 20px;\n}\n"] = false
+    require("vueify-insert-css").cache["\n.nav[_v-5ef5fe9c] {\n    background-color: transparent;\n}\n\n.nav-item > .nav-icon[_v-5ef5fe9c] {\n    -webkit-transition: all ease .1s;\n    transition: all ease .1s;\n    color: #fff;\n}\n.nav-item:hover > .nav-icon[_v-5ef5fe9c]{\n    color: #FF4136;\n}\n\n.top-fixed[_v-5ef5fe9c] {\n    width: 100%;\n    padding: 10px;\n    top: 0;\n    left: 0;\n    position: fixed;\n    background-color: #393939;\n    z-index: 5;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, .15);\n}\n\n.left-side[_v-5ef5fe9c] {\n    margin-top: 52px;\n    left: 0;\n    position: absolute;\n    width: 400px;\n    min-height: calc(100% - 52px);\n    padding: 10px;\n}\n\n.right-side[_v-5ef5fe9c] {\n    margin-top: 52px;\n    left: calc(400px);\n    position: absolute;\n    padding: 10px;\n    width: calc(100% - 400px);\n}\n\n.logo[_v-5ef5fe9c] {\n    padding-left: 20px;\n}\n"] = false
     document.head.removeChild(__vueify_style__)
   })
   if (!module.hot.data) {
@@ -78945,7 +78945,7 @@ if (module.hot) {(function () {  module.hot.accept()
   }
 })()}
 },{"../../json-editor/json-editor.vue":142,"../../ligth-components/navigation-tabs.vue":145,"./headers/headers.vue":132,"./request-editor-data.js":133,"./route-info.vue":135,"vue":120,"vue-hot-reload-api":119,"vueify-insert-css":121}],135:[function(require,module,exports){
-var __vueify_style__ = require("vueify-insert-css").insert("\ntd[_v-3dce47e0]:first-child {\n    width: 50px;\n    font-weight: 500;\n}\n\niframe[_v-3dce47e0] {\n    width: 100%;\n    min-height: 500px;\n}\ntable.table[_v-3dce47e0]{\n    background-color: transparent;\n    color: #69707a;\n}\n\n.notification .fa[_v-3dce47e0] {\n    vertical-align: baseline;\n}\n.card-header-title[_v-3dce47e0]{\n    color: #0092a2;\n}\n\n.route-info[_v-3dce47e0]{\n    overflow-x: scroll;\n}\n")
+var __vueify_style__ = require("vueify-insert-css").insert("\ntd[_v-3dce47e0]:first-child {\n    width: 50px;\n    font-weight: 500;\n}\n\niframe[_v-3dce47e0] {\n    width: 100%;\n    min-height: 500px;\n}\ntable.table[_v-3dce47e0]{\n    background-color: transparent;\n    color: #69707a;\n}\n\n.notification .fa[_v-3dce47e0] {\n    vertical-align: baseline;\n}\n.card-header-title[_v-3dce47e0]{\n    color: #FF4136;\n}\n\n.route-info[_v-3dce47e0]{\n    overflow-x: scroll;\n}\n")
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -79016,7 +79016,7 @@ if (module.hot) {(function () {  module.hot.accept()
   if (!hotAPI.compatible) return
   var id = "/Users/lawrencephillips/Documents/code/server.dev/vendor/webgains/laravel-api-tester/resources/assets/js/components/edit-block/request-editor/route-info.vue"
   module.hot.dispose(function () {
-    require("vueify-insert-css").cache["\ntd[_v-3dce47e0]:first-child {\n    width: 50px;\n    font-weight: 500;\n}\n\niframe[_v-3dce47e0] {\n    width: 100%;\n    min-height: 500px;\n}\ntable.table[_v-3dce47e0]{\n    background-color: transparent;\n    color: #69707a;\n}\n\n.notification .fa[_v-3dce47e0] {\n    vertical-align: baseline;\n}\n.card-header-title[_v-3dce47e0]{\n    color: #0092a2;\n}\n\n.route-info[_v-3dce47e0]{\n    overflow-x: scroll;\n}\n"] = false
+    require("vueify-insert-css").cache["\ntd[_v-3dce47e0]:first-child {\n    width: 50px;\n    font-weight: 500;\n}\n\niframe[_v-3dce47e0] {\n    width: 100%;\n    min-height: 500px;\n}\ntable.table[_v-3dce47e0]{\n    background-color: transparent;\n    color: #69707a;\n}\n\n.notification .fa[_v-3dce47e0] {\n    vertical-align: baseline;\n}\n.card-header-title[_v-3dce47e0]{\n    color: #FF4136;\n}\n\n.route-info[_v-3dce47e0]{\n    overflow-x: scroll;\n}\n"] = false
     document.head.removeChild(__vueify_style__)
   })
   if (!module.hot.data) {

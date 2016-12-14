@@ -83,7 +83,7 @@ which requires scss in .vue file, which is not supported by phpstorm ATM.
         color: #fff;
     }
     .nav-item:hover > .nav-icon{
-        color: #1fc8db;
+        color: #FF4136;
     }
 
     .top-fixed {
