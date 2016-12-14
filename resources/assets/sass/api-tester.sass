@@ -50,9 +50,19 @@ html
 
 .button.is-white
   color: #fff
+  background-color: transparent;
 
 .button.is-white .fa,
-  color: #000
+  color: #fff
+  background-color: transparent;
+
+.button.is-white:hover, .button.is-white:focus
+    background-color: transparent;
+    border-color: transparent;
+    color: #fff;
+
+.button.is-white:hover .fa, .button.is-white:focus .fa
+    color: #FF4136;
 
 a:hover
   color: #fff
@@ -251,12 +261,6 @@ div.jsoneditor .jsoneditor-menu button:focus
 
 .card 
     background-color: #393939;
-
-.button.is-white 
-    color: #fff;
-
-.button.is-white .fa-refresh 
-    color: #000;
 
 a:hover 
     color: #fff;
