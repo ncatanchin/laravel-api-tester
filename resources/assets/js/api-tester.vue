@@ -13,31 +13,17 @@ Application main page.
                     <div class="nav-right">
                         <a class="nav-item"
                            title="Github"
-                           href="https://github.com/asvae/laravel-api-tester"
+                           href="https://github.com/Webgains/laravel-api-tester"
                            target="_blank"
                         >
                             <i class="fa fa-github nav-icon"></i>
                         </a>
                         <a class="nav-item"
                            title="Wiki"
-                           href="https://github.com/asvae/laravel-api-tester/wiki"
+                           href="/docs"
                            target="_blank"
                         >
                             <i class="fa fa-book nav-icon"></i>
-                        </a>
-                        <a class="nav-item"
-                           title="Fork me"
-                           href="https://github.com/asvae/laravel-api-tester/fork"
-                           target="_blank"
-                        >
-                            <i class="fa fa-code-fork nav-icon"></i>
-                        </a>
-                        <a class="nav-item"
-                           title="Issues"
-                           href="https://github.com/asvae/laravel-api-tester/issues"
-                           target="_blank"
-                        >
-                            <i class="fa fa-bug nav-icon"></i>
                         </a>
                     </div>
                 </nav>
