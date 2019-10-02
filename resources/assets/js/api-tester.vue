@@ -7,37 +7,16 @@ Application main page.
                 <nav class="nav" style="width: 400px">
                     <div class="nav-left">
                         <a class="nav-item logo" href=".">
-                            <span class="nav-icon" >API-TESTER</span>
+                            <span class="nav-icon" ><img src="/images/webgains-md.png" alt=""></span>
                         </a>
                     </div>
                     <div class="nav-right">
                         <a class="nav-item"
-                           title="Github"
-                           href="https://github.com/asvae/laravel-api-tester"
-                           target="_blank"
-                        >
-                            <i class="fa fa-github nav-icon"></i>
-                        </a>
-                        <a class="nav-item"
-                           title="Wiki"
-                           href="https://github.com/asvae/laravel-api-tester/wiki"
+                           title="Documentation"
+                           href="/docs"
                            target="_blank"
                         >
                             <i class="fa fa-book nav-icon"></i>
-                        </a>
-                        <a class="nav-item"
-                           title="Fork me"
-                           href="https://github.com/asvae/laravel-api-tester/fork"
-                           target="_blank"
-                        >
-                            <i class="fa fa-code-fork nav-icon"></i>
-                        </a>
-                        <a class="nav-item"
-                           title="Issues"
-                           href="https://github.com/asvae/laravel-api-tester/issues"
-                           target="_blank"
-                        >
-                            <i class="fa fa-bug nav-icon"></i>
                         </a>
                     </div>
                 </nav>
@@ -80,12 +59,10 @@ which requires scss in .vue file, which is not supported by phpstorm ATM.
 
     .nav-item > .nav-icon {
         transition: all ease .1s;
-        color: #006679;
-        text-shadow: 1px 1px 1px #3debff, -1px -1px 1px #0092a2;
+        color: #fff;
     }
     .nav-item:hover > .nav-icon{
-        color: #c6faff;
-        text-shadow: -1px -1px 1px #3debff, 1px 1px 1px #0092a2;
+        color: #FF4136;
     }
 
     .top-fixed {
@@ -94,7 +71,7 @@ which requires scss in .vue file, which is not supported by phpstorm ATM.
         top: 0;
         left: 0;
         position: fixed;
-        background-color: #1fc8db;
+        background-color: #393939;
         z-index: 5;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .15);
     }

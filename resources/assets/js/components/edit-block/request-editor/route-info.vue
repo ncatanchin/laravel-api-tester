@@ -148,7 +148,7 @@
         vertical-align: baseline;
     }
     .card-header-title{
-        color: #0092a2;
+        color: #FF4136;
     }
 
     .route-info{

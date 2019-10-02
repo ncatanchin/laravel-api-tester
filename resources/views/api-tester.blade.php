@@ -10,7 +10,7 @@
     <meta name="firebaseSource" content="{{ $firebaseSource }}">
     <base href="{{ url(config('api-tester.route')).'/' }}">
     <link media="all" type="text/css" rel="stylesheet" href="{{ route('api-tester.file', ['file' => 'api-tester.css']) }}">
-    <title>Laravel api tester</title>
+    <title>Webgains api tester</title>
 </head>
 <body>
 <div id="api-tester">
